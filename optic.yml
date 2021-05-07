@@ -1,0 +1,5 @@
+name: "Rails TODO API"
+tasks:
+  start:
+    command: rails server -p $PORT
+    inboundUrl: http://localhost:4000
